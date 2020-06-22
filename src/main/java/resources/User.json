@@ -1,0 +1,17 @@
+[
+  {	
+	"users":{
+		"phone":"9800000000",
+		"password":"abc123",
+		"DOB":{
+			"month":"January",
+			"day":"04",
+			"year":	"1980"
+},
+		"gender":"Male",
+		"fullName":"ABC",
+		"email":"abc@gmail.com"
+	
+}
+}
+]
