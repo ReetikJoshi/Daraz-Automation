@@ -1,2 +1,2 @@
 # Daraz-Automation
-Automating Register and Login steps, where data are passes through the JSON file.
+Automating Register and Login steps, where data are passsed through the JSON file.
